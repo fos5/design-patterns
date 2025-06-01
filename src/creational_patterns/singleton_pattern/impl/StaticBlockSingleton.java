@@ -1,4 +1,4 @@
-package creational_patterns.singleton_pattern.examples;
+package creational_patterns.singleton_pattern.impl;
 
 public class StaticBlockSingleton {
     private static StaticBlockSingleton instance;

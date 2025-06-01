@@ -1,4 +1,4 @@
-package creational_patterns.singleton_pattern.examples;
+package creational_patterns.singleton_pattern.impl;
 
 public class LazyInitializationSingleton {
     private static LazyInitializationSingleton instance;
